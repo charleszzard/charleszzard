@@ -4,15 +4,11 @@
 💻 Apaixonado por **tecnologia**, inovação e tudo o que envolve desenvolvimento de soluções inteligentes.  
 🚀 Meu foco é aprender e crescer constantemente na área de **desenvolvimento de software**, com interesse especial por sistemas web, inteligência artificial e automação.
 
----
-
 ## 💡 Sobre mim
 
 Desde cedo, sempre fui curioso sobre como as coisas funcionam por dentro — de computadores a sistemas completos. Foi essa curiosidade que me levou a escolher a Engenharia da Computação como caminho profissional.
 
 Hoje, aplico meus conhecimentos em projetos práticos e estou sempre buscando novos desafios que me ajudem a evoluir como desenvolvedor e engenheiro.
-
----
 
 ## 🛠️ Habilidades
 
@@ -21,9 +17,7 @@ Hoje, aplico meus conhecimentos em projetos práticos e estou sempre buscando no
 - 🛠️ **Ferramentas**: Git, VS Code, Figma, Postman  
 - 🔧 **Conceitos**: Lógica de programação, Estrutura de dados, APIs, Programação orientada a objetos  
 
----
-
-## 📘 Em aprendizado
+## 📘 Em aprendizado constante
 
 Atualmente estou aprofundando meus estudos em:
 
