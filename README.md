@@ -1,4 +1,33 @@
-### Olá, eu sou o Charles Júnio! 😉
+# 👋 Olá, eu sou o Charles!
+
+🎓 Atualmente estou cursando **Engenharia da Computação** na FAESA.  
+💻 Apaixonado por **tecnologia**, inovação e tudo o que envolve desenvolvimento de soluções inteligentes.  
+🚀 Meu foco é aprender e crescer constantemente na área de **desenvolvimento de software**, com interesse especial por sistemas web, inteligência artificial e automação.
+
+---
+
+## 💡 Sobre mim
+
+Desde cedo, sempre fui curioso sobre como as coisas funcionam por dentro — de computadores a sistemas completos. Foi essa curiosidade que me levou a escolher a Engenharia da Computação como caminho profissional.
+
+Hoje, aplico meus conhecimentos em projetos práticos e estou sempre buscando novos desafios que me ajudem a evoluir como desenvolvedor e engenheiro.
+
+---
+
+## 🛠️ Habilidades
+
+- 💻 **Linguagens**: Java, JavaScript, Python, HTML, CSS  
+- 🧩 **Frameworks**: React, Vite, Node.js  
+- 🛠️ **Ferramentas**: Git, VS Code, Figma, Postman  
+- 🔧 **Conceitos**: Lógica de programação, Estrutura de dados, APIs, Programação orientada a objetos  
+
+---
+
+## 📘 Em aprendizado
+
+Atualmente estou aprofundando meus estudos em:
+
+- Desenvolvimento fullstack com Java e React  
 
 ![Charleszzard GitHub stats](https://github-readme-stats.vercel.app/api?username=charleszzard&showicons=true&theme=radical)
 ![Charleszzard GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charleszzard&theme=blue-green)
