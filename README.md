@@ -14,7 +14,7 @@ Hoje, aplico meus conhecimentos em projetos práticos e estou sempre buscando no
 
 - 💻 **Linguagens**: Java, JavaScript, Python, HTML, CSS  
 - 🧩 **Frameworks**: React, Vite, Node.js  
-- 🛠️ **Ferramentas**: Git, VS Code, Figma, Postman  
+- 🛠️ **Ferramentas**: Git, VS Code  
 - 🔧 **Conceitos**: Lógica de programação, Estrutura de dados, APIs, Programação orientada a objetos  
 
 ## 📘 Em aprendizado constante
