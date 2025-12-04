@@ -14,8 +14,8 @@ Hoje, aplico meus conhecimentos em projetos práticos e estou sempre buscando no
 
 - 💻 **Linguagens**: Java, JavaScript, Python, HTML, CSS  
 - 🧩 **Frameworks**: React, Vite, Node.js  
-- 🛠️ **Ferramentas**: Git, VS Code  
-- 🔧 **Conceitos**: Lógica de programação, Estrutura de dados, APIs, Programação orientada a objetos  
+- 🛠️ **Ferramentas**: Git, VS Code
+- 🔧 **Conceitos**: Lógica de programação, Estrutura de dados, APIs, Programação orientada a objetos
 
 ## 📘 Em aprendizado constante
 
@@ -23,8 +23,6 @@ Atualmente estou aprofundando meus estudos em:
 
 - Desenvolvimento fullstack com Java e React  
 
-![Charleszzard GitHub stats](https://github-readme-stats.vercel.app/api?username=charleszzard&showicons=true&theme=radical)
-![Charleszzard GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charleszzard&theme=blue-green)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charlless_jr/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/charleszzard)
